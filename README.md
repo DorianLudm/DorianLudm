@@ -1,6 +1,4 @@
-# My github stats:
-
-  
+# My github stats:  
 
 |              Most used languages              |            My overall Github stats            |
 |-----------------------------------------------|-----------------------------------------------|
